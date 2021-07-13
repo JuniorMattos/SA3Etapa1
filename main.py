@@ -1,9 +1,11 @@
 import calculadoradetroco
 
-totalCompra = calculadoradetroco.valorCompra()
+"""totalCompra = calculadoradetroco.valorCompra()
 
 pagamento = calculadoradetroco.valorPagamento(totalCompra)
 
 troco = calculadoradetroco.valorTroco(totalCompra, pagamento)
 
-calculadoradetroco.notas(troco)
+calculadoradetroco.quantidadeDeTroco(troco)"""
+
+calculadoradetroco.menu()
